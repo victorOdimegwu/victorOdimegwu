@@ -22,7 +22,7 @@ I'm a professional **Data Analyst** skilled in transforming data into actionable
 
 ## 📈 Recent Highlights
 
-- 🔭 I’m currently working on a dynamic sales dashboards for a fictitious "AH Manufacturing"
+- 🔭 I’m currently learning Growth Analysis
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about Excel and Power Bi
 - ⚡ Fun fact: i'm kinda funny
