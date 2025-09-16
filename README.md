@@ -24,7 +24,7 @@ I'm a **Data Analyst** transitioning into Growth Marketing Analytic. Passionate 
 
 - 🔭 I’m currently learning Google Analytics, Google Tag Manager, Salesforce, SEO
 - 💬 Ask me about Excel and Power Bi
-- ⚡ Fun fact: i'm kinda funny
+- ⚡ Fun fact: i'm funny
 
 ---
 
