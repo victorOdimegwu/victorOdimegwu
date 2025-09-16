@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 
-I'm a **Data Analyst** transitioning into Growth Marketing Analytic. Passionate about turning data into growth strategies – funnel optimization, A/B testing & campaign insights.
+I'm a **Data Analyst** transitioning into Growth Marketing Analytic. Passionate about turning data into growth strategies.
 
 ---
 
