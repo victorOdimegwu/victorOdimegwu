@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 
-I'm a professional **Data Analyst** skilled in transforming data into actionable insights for business decision-making. My main tools are **Excel** and **Power BI**, and I'm currently expanding my expertise by learning **SQL**.
+I'm a **Data Analyst** Data Analyst transitioning into Growth Marketing Analytic. Passionate about turning data into growth strategies – funnel optimization, A/B testing & campaign insights
 
 ---
 
